@@ -144,4 +144,4 @@ PostgreSQL · SQL (CTEs, window functions) · Python (pandas, matplotlib, seabor
 
 ## Autor
 
-*[Tu nombre]*: [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/Getaway2022)
+*[Junior Gamio]*: [LinkedIn](https://linkedin.com/in/andres-junior-gamio-patricio-206267430) · [GitHub](https://github.com/Getaway2022)
