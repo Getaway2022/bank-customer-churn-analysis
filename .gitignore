@@ -1,0 +1,16 @@
+# Dataset: se descarga desde Kaggle (ver README). Quita esta línea solo si la licencia permite redistribuirlo.
+data/*.csv
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+
+# Power BI: archivos temporales y cachés locales
+*.pbi*.tmp
+.pbi/
+
+# Sistema
+.DS_Store
+Thumbs.db
